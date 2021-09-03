@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/passportmaker/static/css/main.f9df3a67.chunk.css",
-    "main.js": "/passportmaker/static/js/main.c281876d.chunk.js",
-    "main.js.map": "/passportmaker/static/js/main.c281876d.chunk.js.map",
+    "main.js": "/passportmaker/static/js/main.991d1f66.chunk.js",
+    "main.js.map": "/passportmaker/static/js/main.991d1f66.chunk.js.map",
     "runtime-main.js": "/passportmaker/static/js/runtime-main.e97af675.js",
     "runtime-main.js.map": "/passportmaker/static/js/runtime-main.e97af675.js.map",
     "static/js/2.50876ef8.chunk.js": "/passportmaker/static/js/2.50876ef8.chunk.js",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.e97af675.js",
     "static/js/2.50876ef8.chunk.js",
     "static/css/main.f9df3a67.chunk.css",
-    "static/js/main.c281876d.chunk.js"
+    "static/js/main.991d1f66.chunk.js"
   ]
 }
