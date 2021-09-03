@@ -1,22 +1,23 @@
 {
   "files": {
-    "main.css": "/passportmaker/static/css/main.d6d4f72c.chunk.css",
-    "main.js": "/passportmaker/static/js/main.ad1a7e3b.chunk.js",
-    "main.js.map": "/passportmaker/static/js/main.ad1a7e3b.chunk.js.map",
-    "runtime-main.js": "/passportmaker/static/js/runtime-main.5e22b700.js",
-    "runtime-main.js.map": "/passportmaker/static/js/runtime-main.5e22b700.js.map",
-    "static/js/2.588512e2.chunk.js": "/passportmaker/static/js/2.588512e2.chunk.js",
-    "static/js/2.588512e2.chunk.js.map": "/passportmaker/static/js/2.588512e2.chunk.js.map",
-    "static/js/3.096dbdf5.chunk.js": "/passportmaker/static/js/3.096dbdf5.chunk.js",
-    "static/js/3.096dbdf5.chunk.js.map": "/passportmaker/static/js/3.096dbdf5.chunk.js.map",
+    "main.css": "/passportmaker/static/css/main.db3df049.chunk.css",
+    "main.js": "/passportmaker/static/js/main.9469fdbf.chunk.js",
+    "main.js.map": "/passportmaker/static/js/main.9469fdbf.chunk.js.map",
+    "runtime-main.js": "/passportmaker/static/js/runtime-main.babdbc07.js",
+    "runtime-main.js.map": "/passportmaker/static/js/runtime-main.babdbc07.js.map",
+    "static/js/2.02c968d5.chunk.js": "/passportmaker/static/js/2.02c968d5.chunk.js",
+    "static/js/2.02c968d5.chunk.js.map": "/passportmaker/static/js/2.02c968d5.chunk.js.map",
+    "static/js/3.ddf3b666.chunk.js": "/passportmaker/static/js/3.ddf3b666.chunk.js",
+    "static/js/3.ddf3b666.chunk.js.map": "/passportmaker/static/js/3.ddf3b666.chunk.js.map",
     "index.html": "/passportmaker/index.html",
-    "static/css/main.d6d4f72c.chunk.css.map": "/passportmaker/static/css/main.d6d4f72c.chunk.css.map",
-    "static/js/2.588512e2.chunk.js.LICENSE.txt": "/passportmaker/static/js/2.588512e2.chunk.js.LICENSE.txt"
+    "static/css/main.db3df049.chunk.css.map": "/passportmaker/static/css/main.db3df049.chunk.css.map",
+    "static/js/2.02c968d5.chunk.js.LICENSE.txt": "/passportmaker/static/js/2.02c968d5.chunk.js.LICENSE.txt",
+    "static/media/empty-face.4ba5feae.png": "/passportmaker/static/media/empty-face.4ba5feae.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.5e22b700.js",
-    "static/js/2.588512e2.chunk.js",
-    "static/css/main.d6d4f72c.chunk.css",
-    "static/js/main.ad1a7e3b.chunk.js"
+    "static/js/runtime-main.babdbc07.js",
+    "static/js/2.02c968d5.chunk.js",
+    "static/css/main.db3df049.chunk.css",
+    "static/js/main.9469fdbf.chunk.js"
   ]
 }
