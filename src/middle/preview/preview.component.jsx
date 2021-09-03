@@ -1,17 +1,18 @@
 import React, { useEffect } from "react";
 import "./preview.component.css";
 
-const Preview = ({ visible }) => {
-    const picturesrc = visible ? document.getElementById("passportImg").src : null;
+const Preview = ({ visible,selectedImg }) => {
+    
     useEffect(() => {
         if (visible) {
+            document.getElementById("final-preview").innerHTML = "";
             for (let i = 0; i < 5; i++) {
                 const div = document.createElement("div");
                 div.id = `final-preview-row-${i}`
                 document.getElementById("final-preview").appendChild(div);
                 for (let j = 0; j < 3; j++) {
                     const img = document.createElement("img");
-                    img.src = picturesrc;
+                    img.src = selectedImg;
                     img.className = "column";
                     img.alt = "passport picture";
                     img.style.margin = "5px";
@@ -20,7 +21,7 @@ const Preview = ({ visible }) => {
                 }
             }
         }
-    }, [picturesrc]);
+    }, [selectedImg]);
 
     if (visible)
         return (

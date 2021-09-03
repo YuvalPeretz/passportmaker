@@ -7,14 +7,18 @@ import Preview from "./preview/preview.component";
 const Middle = () => {
     
     const [previewVisibility, setPreviewVisibility] = useState(false);
+    const [selectedImg, setSelectedImg] = useState(undefined);
 
-    const ShowPreview = () => { setPreviewVisibility(true) }
+    const ShowPreview = () => {
+        setPreviewVisibility(true)
+        setSelectedImg(document.getElementById("passportImg").src);
+    }
 
     return (
         <div id="middle">
             <Introduction />
             <PictureUpload showPreview={ShowPreview}/>
-            <Preview visible={previewVisibility}/>
+            <Preview visible={previewVisibility} selectedImg={selectedImg}/>
         </div>
     );
 }
