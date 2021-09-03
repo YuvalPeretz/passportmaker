@@ -1,0 +1,35 @@
+#picture-upload {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+    margin: 3.25vh 0px;
+}
+
+#filepicker {
+    width: 11vw;
+    margin-right: 2vw;
+}
+
+#passportImg {
+    height: 192px;
+    width: 192px;
+}
+
+@media (max-width: 1800px) {
+    #picture-upload {
+        flex-direction: column;
+    }
+    
+    #filepicker {
+        width: auto;
+        margin-right: 0px;
+        margin-bottom: 20px;
+    }
+}
+
+@media (max-width: 725px) {
+    #picture-upload {
+        margin-top: 50px;
+    }
+}
