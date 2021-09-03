@@ -10,12 +10,25 @@
   margin-bottom: 10px;
 }
 
-@media (max-width: 770px) {
+#final-preview div img {
+  width: 70mm;
+  height: 90mm;
+}
+
+@media (max-width: 1000px) {
   #final-preview div img{
-    width: 100px;
-    height: 100px;
+    width: 35mm;
+    height: 45mm;
   }
 }
+
+@media (max-width: 456px) {
+  #final-preview div img{
+    width: 23mm;
+    height: 30mm;
+  }
+}
+
 
 @media print {
   body * {

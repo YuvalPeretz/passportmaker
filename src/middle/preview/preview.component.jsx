@@ -13,9 +13,7 @@ const Preview = ({ visible }) => {
                     const img = document.createElement("img");
                     img.src = picturesrc;
                     img.className = "column";
-                    img.style.height = "45mm";
-                    img.style.width = "35mm";
-                    img.alt = "nothing";
+                    img.alt = "passport picture";
                     img.style.margin = "5px";
                     img.style.border = "1px solid black"
                     document.getElementById(`final-preview-row-${i}`).appendChild(img);
