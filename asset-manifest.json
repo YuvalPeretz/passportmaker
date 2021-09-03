@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/passportmaker/static/css/main.fb2766d4.chunk.css",
-    "main.js": "/passportmaker/static/js/main.1900eecf.chunk.js",
-    "main.js.map": "/passportmaker/static/js/main.1900eecf.chunk.js.map",
+    "main.css": "/passportmaker/static/css/main.8fdab0f3.chunk.css",
+    "main.js": "/passportmaker/static/js/main.18c2571f.chunk.js",
+    "main.js.map": "/passportmaker/static/js/main.18c2571f.chunk.js.map",
     "runtime-main.js": "/passportmaker/static/js/runtime-main.886644c4.js",
     "runtime-main.js.map": "/passportmaker/static/js/runtime-main.886644c4.js.map",
     "static/js/2.230549c1.chunk.js": "/passportmaker/static/js/2.230549c1.chunk.js",
@@ -10,14 +10,14 @@
     "static/js/3.e4b92e74.chunk.js": "/passportmaker/static/js/3.e4b92e74.chunk.js",
     "static/js/3.e4b92e74.chunk.js.map": "/passportmaker/static/js/3.e4b92e74.chunk.js.map",
     "index.html": "/passportmaker/index.html",
-    "static/css/main.fb2766d4.chunk.css.map": "/passportmaker/static/css/main.fb2766d4.chunk.css.map",
+    "static/css/main.8fdab0f3.chunk.css.map": "/passportmaker/static/css/main.8fdab0f3.chunk.css.map",
     "static/js/2.230549c1.chunk.js.LICENSE.txt": "/passportmaker/static/js/2.230549c1.chunk.js.LICENSE.txt",
     "static/media/empty-face.4ba5feae.png": "/passportmaker/static/media/empty-face.4ba5feae.png"
   },
   "entrypoints": [
     "static/js/runtime-main.886644c4.js",
     "static/js/2.230549c1.chunk.js",
-    "static/css/main.fb2766d4.chunk.css",
-    "static/js/main.1900eecf.chunk.js"
+    "static/css/main.8fdab0f3.chunk.css",
+    "static/js/main.18c2571f.chunk.js"
   ]
 }
