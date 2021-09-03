@@ -22,8 +22,8 @@
     visibility: hidden;
   }
   #final-preview div img{
-    width: 192px;
-    height: 192pppx;
+    width: 35mm;
+    height: 45mm;
   }
   #final-preview, #final-preview * {
     visibility: visible;
