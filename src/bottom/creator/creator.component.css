@@ -3,3 +3,16 @@
     bottom: 1px;
     z-index: -1;
 }
+
+.clickable {
+    background-color: rgb(231, 231, 243);
+    transition: background-color 0.1s;
+    border-radius: 5px;
+    padding: 0px 5px;
+    cursor: pointer;
+}
+
+.clickable:hover {
+    background-color: rgb(203, 203, 247);
+    transition: background-color 0.2s;
+}
