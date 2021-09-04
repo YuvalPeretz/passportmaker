@@ -1,5 +1,6 @@
 import React from 'react';
 import './App.css';
+import Creator from './bottom/creator/creator.component';
 import Middle from './middle/middle';
 import Top from './top/top';
 
@@ -12,6 +13,7 @@ const App = () => {
       <div className="main-container">
         <Middle />
       </div>
+      <Creator />
     </div>
   );
 }
